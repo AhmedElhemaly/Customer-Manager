@@ -3,4 +3,5 @@ Web application that enable user to create delete update and search for customer
 J2EE<br/>
 Spring MVC<br/>
 Hibernate<br/>
-Spring Data
+Spring Data<br/>
+JSP
